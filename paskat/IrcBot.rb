@@ -1,3 +1,6 @@
+/*
+This is a change
+*/
 require("socket")
 class IrcBot
   attr_accessor :name, :ch, :ch_pw, :admins
